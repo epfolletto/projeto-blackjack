@@ -2,6 +2,7 @@
 Projeto BlackJack
 
 # `Descrição`
+[Projeto desenvolvido na semana 3 do curso Labenu] </br>
 Projeto BlackJack é um jogo onde o objetivo é ter mais pontos que o adversário, sem ultrapassar 21 pontos. Neste projeto, o usuário pode jogar contra a máquina.
 Para desenvolver este projeto, foram utilizados conceitos relacionados a lógica de programação utilizando a linguagem JavaScript
 
