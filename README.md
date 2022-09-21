@@ -1,5 +1,5 @@
 # `Projeto`
-Projeto BlackJack
+BlackJack
 
 # `Descrição`
 [Projeto desenvolvido na semana 3 do curso Labenu]. </br>
